@@ -32,7 +32,7 @@ class HomeController extends Controller
      }
 
 
-     public function destroy(Encart $encart)
+     public function destroy()
      {
         
      }

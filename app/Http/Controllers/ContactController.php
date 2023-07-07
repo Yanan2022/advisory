@@ -32,7 +32,7 @@ class ContactController extends Controller
      }
 
 
-     public function destroy(Encart $encart)
+     public function destroy()
      {
         
      }
