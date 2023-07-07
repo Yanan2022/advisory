@@ -1,4 +1,4 @@
-FROM php:7.4-apache
+FROM php:8.4-apache
 
 # Copier les fichiers de l'application Laravel dans le conteneur
 COPY . /var/www/html
