@@ -2,7 +2,7 @@
 <footer>
     <div class="container">
         <div class="row">
-            <div class="col-md-3 footer-item">
+            {{-- <div class="col-md-3 footer-item">
                 <h4>F&J ADVISORY</h4>
                 <p>
                     ​Notre équipe de professionnels et nos correspondants issus du monde de l’entreprise, du capital-investissement et du conseil en gestion possèdent un savoir-faire et une expertise.
@@ -29,15 +29,15 @@
                         </a>
                     </li>
                 </ul>
-            </div>
+            </div> --}}
             <div class="col-md-3 footer-item">
                 <h4>Pages</h4>
                 <ul class="menu-list">
                     <li>
                         <a href="/about">À propos de nous</a>
                     </li>
-                    <li>
-                        <a href="/accompagnement-projet">Accompagnement de projet d'investissement</a>
+                    {{-- <li>
+                        <a href="/accompagnement-projet">Notre expertise</a>
                     </li>
                     <li>
                         <a href="/conseil-financier">Conseil financier</a>
@@ -49,7 +49,7 @@
                     <a href="{{ route('amelioration-performance') }}">Amélioration de la performance opérationnelle</a>
                     </li>
                      <li> <a href="{{ route('formation-gestion') }}">Formation en gestion</a> </li>
-                    <li>
+                    <li> --}}
                         <a href="/services">Nos services</a>
                     </li>
                     <li>
@@ -74,7 +74,7 @@
                             </div>
                             <div class="col-lg-12">
                                 <fieldset>
-                                    <textarea name="message" rows="6" class="form-control" id="message" placeholder="Ton Message" required=""></textarea>
+                                    <textarea name="message" rows="6" class="form-control" id="message" placeholder="Votre Message" required=""></textarea>
                                 </fieldset>
                             </div>
                             <div class="col-lg-12">

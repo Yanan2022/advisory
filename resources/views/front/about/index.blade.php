@@ -7,7 +7,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-              <h1>À propos de nous</h1>
+              <h1>Qui sommes nous?</h1>
           </div>
         </div>
       </div>
@@ -21,9 +21,9 @@
                     <div class="row">
                         <div class="col-md-6 align-self-center">
                             <div class="right-content">
-                                <h2>
+                                {{-- <h2>
                                     Connaître <em>notre entreprise</em>
-                                </h2>
+                                </h2> --}}
                                 <p>
                                     <strong>F&J ADVISORY</strong> est un cabinet panafricain de conseil en management et de conseil financier ayant pour 
                                     vision de contribuer de manière tangible au développement des économies de l’Afrique sub-saharienne par la fourniture 
@@ -31,11 +31,11 @@
                                     des affaires africain et expérience professionnelle pratique, les consultants de F&J adaptent les concepts techniques les 
                                     plus éprouvés à vos problèmes de gestion. Notre expertise se situe dans les domaines suivants: 
                                     <ul>
-                                        <li><a class="dropdown-item" href="{{ route('accompagnement-projet') }}">- Accompagnement de projets d’investissement</a>
+                                        <li><a class="dropdown-item" href="{{ route('accompagnement-projet') }}">• Accompagnement de projets d’investissement</a>
                                         </li>
-                                        <li><a class="dropdown-item" href="{{ route('conseil-financier') }}">- Conseil Financier</a></li>
-                                        <li><a class="dropdown-item" href="{{ route('amelioration-performance') }}">- Amélioration de la performance opérationnelle</a></li>
-                                        <li><a class="dropdown-item" href="{{ route('formation-gestion') }}">- Formation en gestion.</a></li>
+                                        <li><a class="dropdown-item" href="{{ route('conseil-financier') }}">• Conseil Financier</a></li>
+                                        <li><a class="dropdown-item" href="{{ route('amelioration-performance') }}">• Amélioration de la performance opérationnelle</a></li>
+                                        <li><a class="dropdown-item" href="{{ route('formation-gestion') }}">• Formation en gestion.</a></li>
                                     </ul>
                                 </p>
                                 

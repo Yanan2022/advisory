@@ -7,7 +7,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <h1>Accompagnement de projet d’investissement</h1>
+            <h1>Accompagnement de projets d’investissements</h1>
           </div>
         </div>
       </div>
@@ -19,38 +19,39 @@
           <div class="col-md-4">
             <ul>
             <li>
-              <a href='#tabs-4'>ANALYSES SECTORIELLES <i class="fa fa-angle-right"></i></a></li>
-              <li><a href='#tabs-2'>LANCEMENT DE PROJET <i class="fa fa-angle-right"></i></a></li>
+              <a href='#tabs-4'>Analyses sectorielles <i class="fa fa-angle-right"></i></a></li>
+              <li><a href='#tabs-2'>Lancement de projet <i class="fa fa-angle-right"></i></a></li>
             </ul>
           </div>
           <div class="col-md-8">
             <section class='tabs-content'>
               <article id='tabs-2'>
-                <img src="assets/images/single_service_02.jpg" alt="">
+                <img src="assets/images/single_service_02.jpg" style="height: 150px;width: 800px;" alt="">
                 <h4>Lancement de projet</h4>
-                    <p>
+                    {{-- <p> --}}
                         Dans le cadre de la mise en œuvre de leurs projets greenfield ou de leur projet d’expansion, nous apportons aux investisseurs 
                         une assistance sur mesure pouvant inclure :                          
-                    </p>
+                    {{-- </p> --}}
                         <ul>
-                          <li>-	La réalisation d’étude de marché et de business plan</li>
-                          <li>-	Des séances de travail avec les autorités de régulation su secteur</li>
-                          <li>-	L’obtention de l’agrément à l’investissement auprès du CEPICI</li>
-                          <li>-	L’obtention d’un terrain industriel auprès de l’AGEDI</li>
-                          <li>-	L’identification et le recrutement du management local et du personnel clé …</li>
+                          <li>•	La réalisation d’étude de marché et de business plan</li>
+                          <li>•	Des séances de travail avec les autorités de régulation su secteur</li>
+                          <li>•	L’obtention de l’agrément à l’investissement auprès du CEPICI</li>
+                          <li>•	L’obtention d’un terrain industriel auprès de l’AGEDI</li>
+                          <li>•	L’identification et le recrutement du management local et du personnel clé …</li>
                         </ul>
+                        <br>
               </article>
               <article id='tabs-4'>
-                <img src="assets/images/single_service_04.jpg" alt="">
+                <img src="assets/images/single_service_04.jpg" style="height: 150px;width: 800px;" alt="">
                 <h4>Analyses sectorielles</h4>
-                        <p>
+                        {{-- <p> --}}
                         Afin d’accompagner les investisseurs dans leur stratégie de développement 
                         en Côte d’Ivoire,nous leur fournissons des analyses approfondies leur permettant 
                         de confirmer leur intérêt sur des secteurs d’activité donnés. Nos analyses incluent 
                         la taille et les principales tendances du marché, l’identification des acteurs majeurs 
                         ainsi que leurs indicateurs de performance clés.
                             
-                        </p>
+                        {{-- </p> --}}
                         <br/>
                         
               </article>

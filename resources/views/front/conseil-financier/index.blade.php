@@ -27,7 +27,7 @@
           <div class="col-md-8">
             <section class='tabs-content'>
               <article id='tabs-1'>
-                <img src="assets/images/single_service_01.jpg" alt="">
+                <img src="assets/images/single_service_01.jpg" style="height: 150px;width: 800px;" alt="">
                 <h3>Due diligence et évaluation d’entreprise</h3>
                 <span class="highlight">Acquisition</span><br/>
                 Les acquisitions comme mode de croissance des entreprises présentent des challenges si importants, que la plupart 
@@ -43,7 +43,7 @@
                   <li>•	La qualité de l'organisation, du contrôle interne et des systèmes.</li>
                 </ul>                          
                 </p>
-                <p>
+                
                 <span class="highlight">Cession</span><br/>
                 Dans le cadre de la cession partielle ou totale de votre entreprise, nous vous aidons à contrôler le processus 
                 de vente et à optimiser le prix de cession en préparant les supports d’information et en gérant la communication 
@@ -60,9 +60,8 @@
 
               </article>
               <article id='tabs-2'>
-                <img src="assets/images/single_service_02.jpg" alt="">
+                <img src="assets/images/single_service_02.jpg" style="height: 150px;width: 800px;" alt="">
                 <h4>Restructuration financière</h4>
-                <p>
                   Toute entreprise est susceptible d’avoir à faire face à des difficultés financières liées à un contexte conjoncturel 
                   ou sectoriel difficile, une rentabilité en déclin ou une structure financière ou actionnariale inadaptée aux performances. Ces difficultés entrainent la perte de confiance des partenaires de l’entreprise (banquiers, fournisseurs, clients…).
                   Pour vous aider à faire face à ce genre de situations, nous élaborons et mettons en application un plan d’actions 

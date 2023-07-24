@@ -9,7 +9,7 @@
     <!-- ***** Preloader End ***** -->
 
     <header class="">
-      <nav class="navbar navbar-expand-lg" style="background-color: white;">
+      <nav class="navbar navbar-expand-lg" style="background-color: white;height: 100px;">
         <div class="container">
           <a class="navbar-brand" href="index.html">
             <!-- <h2>Finance Business</h2> -->

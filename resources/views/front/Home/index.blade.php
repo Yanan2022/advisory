@@ -81,7 +81,7 @@
                 <div class="more-info-content" style="background-color: #07559E;">
                     <div class="row">
                         <div class="col-md-6">
-                            <img src="assets/images/objectif.png" alt="" />
+                            <img src="assets/images/objectif.png" style="height: 227px; margin-left:142px" alt="" />
                         </div>
                         <div class="col-md-6 align-self-center">
                             <div class="right-content">
@@ -131,7 +131,7 @@
             </div>
             <div class="col-md-3 hoverable">
                 <div class="service-item">
-                    <img src="assets/images/service_04.jpg" style="height: 131px !important;" alt="" />
+                    {{-- <img src="assets/images/service_04.jpg" style="height: 131px !important;" alt="" /> --}}
                     <div class="down-content">
                         <center>
                             <h4>Accompagnement de projet d'investissemnt</h4>
@@ -139,31 +139,33 @@
                         <p>
                             L'accompagnement de projet d'investissement implique la supervision et la coordination des opérations.
                         </p>
-                        <a href="{{ route('accompagnement-projet') }}" class="filled-button" style="margin-top: 13px;">
+                        <br><br>
+                        {{-- <a href="{{ route('accompagnement-projet') }}" class="filled-button" style="margin-top: 13px;">
                             En savoir plus
-                        </a>
+                        </a> --}}
                     </div>
                 </div>
             </div>
             <div class="col-md-3 hoverable">
                 <div class="service-item">
-                    <img src="assets/images/service_01.jpg" alt="" />
+                    {{-- <img src="assets/images/service_01.jpg" alt="" /> --}}
                     <div class="down-content">
                         <center>
                             <h4>Conseil financier</h4>
+                            <br><br>
                         </center>
                         <p>
                             Le conseil financier englobe la supervision et la coordination des activités opérationnelles liées à la gestion des opérations. Il s'agit d'optimiser les processus et les...
                         </p>
-                        <a href="{{ route('conseil-financier') }}" class="filled-button">
+                        {{-- <a href="{{ route('conseil-financier') }}" class="filled-button">
                             En savoir plus
-                        </a>
+                        </a> --}}
                     </div>
                 </div>
             </div>
             <div class="col-md-3 hoverable">
                 <div class="service-item">
-                    <img src="assets/images/service_02.png" alt="" />
+                    {{-- <img src="assets/images/service_02.png" alt="" /> --}}
                     <div class="down-content">
                         <center>
                             <h4>Amélioration de la performance opérationnelle</h4>
@@ -171,34 +173,37 @@
                         <p>
                             L'amélioration de la performance opérationnelle est une démarche visant à optimiser les processus...
                         </p>
-                        <a href="{{ route('amelioration-performance') }}" class="filled-button" style="margin-top: 10px;">
+                        <br>
+                        <br>
+                        {{-- <a href="{{ route('amelioration-performance') }}" class="filled-button" style="margin-top: 10px;">
                             En savoir plus
-                        </a>
+                        </a> --}}
                     </div>
                 </div>
             </div>
             <div class="col-md-3 hoverable">
                 <div class="service-item">
-                    <img src="assets/images/service_03.png" alt="" />
+                    {{-- <img src="assets/images/service_03.png" alt="" /> --}}
                     <div class="down-content">
                         <center>
                             <h4>Formation en gestion</h4>
+                            <br>
                         </center>
                         <p>
                             La formation en gestion est essentielle pour développer les compétences nécessaires à la gestion efficace des ressources au sein d'une organisation.
-                        </p>
-                        <a href="{{ route('formation-gestion') }}" class="filled-button">
+                        <br>
+                        {{-- <a href="{{ route('formation-gestion') }}" class="filled-button">
                             En savoir plus
-                        </a>
+                        </a> --}}
                     </div>
                 </div>
             </div>
-        </div>
+        </div>  
     </div>
 </div>
 
 
-<div class="more-info">
+{{-- <div class="more-info">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -206,14 +211,14 @@
                     <div class="row">
                         <div class="col-md-6">
                             <div class="left-image">
-                                <img src="assets/images/more-info.jpg" alt="" />
+                                <img src="assets/images/more-info.jpg" style="height: 400px" alt="" />
                             </div>
                         </div>
                         <div class="col-md-6 align-self-center">
                             <div class="right-content">
                                 <span>Qui nous sommes?</span>
                                 <h2>
-                                    Découvrez <em>notre entreprise</em>
+                                     <em>A propos de nous</em>
                                 </h2>
                                 <p>
                                     Nous sommes une entreprise passionnée et engagée qui se spécialise dans la fourniture de solutions innovantes pour répondre aux besoins
@@ -232,7 +237,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> --}}
 
 
     
@@ -363,7 +368,7 @@
       </div>
     </div> -->
 
-    <div class="partners">
+    {{-- <div class="partners">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
@@ -393,7 +398,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> --}}
 
     <script>
       window.addEventListener('scroll', function() {
