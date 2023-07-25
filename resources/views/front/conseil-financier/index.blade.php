@@ -21,14 +21,14 @@
             <ul>
             <li>
               <a href='#tabs-1'>Due diligence et évaluation d’entreprise <i class="fa fa-angle-right"></i></a></li>
-              <li><a href='#tabs-2'>Restructuration financière <i class="fa fa-angle-right"></i></a></li>
+              <li><a href='#tabs-2' style="font-size: 19px">Restructuration financière <i class="fa fa-angle-right"></i></a></li>
             </ul>
           </div>
           <div class="col-md-8">
             <section class='tabs-content'>
               <article id='tabs-1'>
                 <img src="assets/images/single_service_01.jpg" style="height: 150px;width: 800px;" alt="">
-                <h3>Due diligence et évaluation d’entreprise</h3>
+                <h3>Due diligence et évaluation d’entreprise</h3><br>
                 <span class="highlight">Acquisition</span><br/>
                 Les acquisitions comme mode de croissance des entreprises présentent des challenges si importants, que la plupart 
                 de ces opérations résultent en une destruction de valeur. Notre équipe vous aide à mieux cerner les risques liés 
@@ -42,7 +42,7 @@
                   <li>•	Les passifs, risques et engagements</li>
                   <li>•	La qualité de l'organisation, du contrôle interne et des systèmes.</li>
                 </ul>                          
-                </p>
+                </p><br>
                 
                 <span class="highlight">Cession</span><br/>
                 Dans le cadre de la cession partielle ou totale de votre entreprise, nous vous aidons à contrôler le processus 
@@ -75,7 +75,8 @@
                   <li>•	l’optimisation des différents scénarii de sortie de crise </li>
                   <li>•	l’accompagnement dans la cession d’une activité en difficulté. </li>
                 </ul>   
-                </p>
+                <br>
+                {{-- </p> --}}
               </article>
             </section>
           </div>

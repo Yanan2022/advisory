@@ -23,7 +23,7 @@
                     <p>
                         N'hésitez pas à nous contacter par téléphone pour toute question ou demande d'assistance. Notre équipe dévouée est là pour vous aider.
                     </p>
-                    <a href="#">+ 225 27 22 25 11 14 / +225 07 77 21 32 29</a>
+                    <a href="#">+225 27 22 25 11 14 /+225 07 77 21 32 29</a>
                 </div>
             </div>
             <div class="col-md-4">
@@ -32,7 +32,7 @@
                     <h4>Email</h4>
                     <p>
                         Vous pouvez nous contacter par email pour toute question, demande d'information ou collaboration.
-                    </p>
+                    </p><br>
                     <a href="#">info@fjadvisory.com</a>
                 </div>
             </div>
@@ -44,7 +44,7 @@
                         Cocody Angré, Bd Latrille, Face à la BHCI
                         <br />
                         08 BP 643 Abidjan 08 - Côte d'Ivoire
-                    </p>
+                    </p><br><br>
                     <a href="#">Voir sur Google Maps</a>
                 </div>
             </div>
@@ -59,7 +59,7 @@
             <div class="col-md-12">
                 <div class="section-heading">
                     <h2>
-                        Envoyer-nous un <em>message</em>
+                        Envoyez-nous un <em>message</em>
                     </h2>
                     <span>N'hésitez pas à nous contacter pour toute question ou demande</span>
                 </div>
@@ -104,7 +104,7 @@
 </div>
 
 
-    <div id="map">
+    {{-- <div id="map">
 <!-- How to change your own map point
 	1. Go to Google Maps
 	2. Click on your location point
@@ -112,9 +112,9 @@
 	4. Copy only URL and paste it within the src="" field below
 -->
       <iframe src="https://maps.google.com/maps?q=Av.+Lúcio+Costa,+Rio+de+Janeiro+-+RJ,+Brazil&t=&z=13&ie=UTF8&iwloc=&output=embed" width="100%" height="500px" frameborder="0" style="border:0" allowfullscreen></iframe>
-    </div>
+    </div> --}}
 
-    <div class="partners contact-partners">
+    {{-- <div class="partners contact-partners">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
@@ -126,5 +126,5 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> --}}
 @endsection

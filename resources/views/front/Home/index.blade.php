@@ -134,7 +134,7 @@
                     {{-- <img src="assets/images/service_04.jpg" style="height: 131px !important;" alt="" /> --}}
                     <div class="down-content">
                         <center>
-                            <h4>Accompagnement de projet d'investissemnt</h4>
+                            <h4>Accompagnement de projets d'investissements</h4>
                         </center>
                         <p>
                             L'accompagnement de projet d'investissement implique la supervision et la coordination des opérations.

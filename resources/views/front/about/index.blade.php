@@ -24,7 +24,7 @@
                                 {{-- <h2>
                                     Connaître <em>notre entreprise</em>
                                 </h2> --}}
-                                <p>
+                                {{-- <p> --}}
                                     <strong>F&J ADVISORY</strong> est un cabinet panafricain de conseil en management et de conseil financier ayant pour 
                                     vision de contribuer de manière tangible au développement des économies de l’Afrique sub-saharienne par la fourniture 
                                     de services de conseil aux standards internationaux. Alliant formation internationale, connaissance approfondie du monde 
@@ -37,7 +37,7 @@
                                         <li><a class="dropdown-item" href="{{ route('amelioration-performance') }}">• Amélioration de la performance opérationnelle</a></li>
                                         <li><a class="dropdown-item" href="{{ route('formation-gestion') }}">• Formation en gestion.</a></li>
                                     </ul>
-                                </p>
+                                {{-- </p> --}}
                                 
                             </div>
                         </div>
@@ -56,16 +56,14 @@
 
 <div class="fun-facts" style="margin-bottom: 10px">
       <div class="container">
+        <center><h2><em>NOS SECTEURS D’ACTIVITES</em></h2></center>
+        <p>
+          Notre équipe de professionnels et nos correspondants issus du monde de l'entreprise, du capital-investissement 
+          et du conseil en gestion possèdent un savoir-faire et une expertise dans les principaux secteurs suivants :               
+        </p>
         <div class="row">
           <div class="col-md-6">
             <div class="left-content">
-              <!-- <span>Lorem ipsum dolor sit amet</span> -->
-              <h2><em>NOS SECTEURS D’ACTIVITES</em></h2>
-              <p>
-              Notre équipe de professionnels et nos correspondants issus du monde de l'entreprise, du capital-investissement 
-              et du conseil en gestion possèdent un savoir-faire et une expertise dans les principaux secteurs suivants :
-                
-              </p>
               <div class="col-md-12">
                 <div class="count-area-content">
                   <div class="count-title">Banques,Micro-finance</div>
@@ -113,24 +111,21 @@
                 </div>
               </div>
 
-              <div class="col-md-4">
+              <div class="col-md-6">
                 <div class="count-area-content">
                   <div class="count-title">Eau,Energie</div>
                 </div>
               </div>
-              <div class="col-md-4">
+              <div class="col-md-6">
                 <div class="count-area-content">
                   <div class="count-title">Hôtellerie</div>
                 </div>
               </div>
-              <div class="col-md-4">
+              <div class="col-md-6">
                 <div class="count-area-content">
                   <div class="count-title">Industrie </div>
                 </div>
-              </div>
-              
-              
-             
+              </div>                                      
             </div>
           </div>
         </div>
